@@ -11,6 +11,10 @@ h2 {
     font-size: 40px;
 }
 
+p {
+    color: gray;
+}
+
 .color-text {
     color: orange;
 }
@@ -56,4 +60,8 @@ h2 {
     padding: 0 15px;
     border-left: 5px solid blue;
     border-radius: 5px;
+}
+
+.footer-text {
+    text-align: center;
 }
